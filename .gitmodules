@@ -1,9 +1,10 @@
-[submodule "nord-tmux"]
-	path = nord-tmux
-	url = https://github.com/arcticicestudio/nord-tmux
-[submodule "tmux-resurrect"]
-	path = tmux-resurrect
-	url = https://github.com/tmux-plugins/tmux-resurrect
+; [submodule "nord-tmux"]
+; 	path = nord-tmux
+; 	url = https://github.com/arcticicestudio/nord-tmux
+; <<<<<<< HEAD
+; [submodule "tmux-resurrect"]
+; 	path = tmux-resurrect
+; 	url = https://github.com/tmux-plugins/tmux-resurrect
 [submodule "themes/nord-tmux"]
 	path = themes/nord-tmux
 	url = https://github.com/arcticicestudio/nord-tmux
